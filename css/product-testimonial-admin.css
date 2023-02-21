@@ -1,0 +1,49 @@
+/* Stype for wpt-admin */
+label{
+    padding: 10px;
+    font-size: 15px;
+}
+.form-group input[type=text]{  
+    margin-top: 10px; 
+    width: 250px;
+    display: block;
+    margin-bottom: 1em;
+    padding: .25em .5em;
+    color: #999;
+    border: 1px solid #e9e9e9;
+    outline: none;
+}
+input[type=submit]{  
+    margin-top: 10px; 
+    width: 150px;
+    display: block;
+    padding: 10px;
+    border: 1px solid #e9e9e9;
+    outline: none;
+    cursor: pointer;
+    text-decoration-color: darkblue;
+}
+.card {
+    position: relative;
+    margin-top: 20px;
+    padding: 0.7em 2em 1em;
+    min-width: 355px;
+    max-width: 600px;
+    border: 1px solid #c3c4c7;
+    box-shadow: 0 1px 1px rgb(0 0 0 / 4%);
+    background: #fff;
+    box-sizing: border-box;
+}
+.card-second {
+    position: relative;
+    margin-top: 64px;
+    padding: 0.7em 2em 1em;
+    min-width: 300px;
+    max-width: 350px;
+    border: 1px solid #c3c4c7;
+    box-shadow: 0 1px 1px rgb(0 0 0 / 4%);
+    background: #fff;
+    box-sizing: border-box;
+    float: right;
+    margin-right: 80px;
+}
